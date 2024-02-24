@@ -1,1 +1,1 @@
-# Criar-Uma-P-gina-Web-Utilizando-as-Tags-Aprendidas
+# Estou embarcando em uma jornada para criar uma página web utilizando as tags HTML que aprendi. Vou começar do zero, explorando como diferentes tags funcionam e como posso usá-las para estruturar o conteúdo de uma página web de maneira eficaz. Estou animado para aplicar e aprofundar meu entendimento de tags HTML na prática. Este é um passo perfeito para mim, pois estou começando a aprender desenvolvimento web.
